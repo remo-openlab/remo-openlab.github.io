@@ -7,4 +7,5 @@ View synthesis technique can serve the free-viewpoint rendering to users using j
 ### Tiger
 <img src="images/tiger-front.jpg" width="320" height="240">
 
-[[Low](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/tiger-front/low)]
+[[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/tiger-front/mobile)]
+[[PC](https://remo-openlab.github.io/viewer/viewer.html?scene=https://remo-openlab.github.io/mpi/tiger-front/low)]
