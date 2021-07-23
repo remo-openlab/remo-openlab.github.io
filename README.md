@@ -1,2 +1,2 @@
-# remo-openlab.github.io
-This page was designed to demonstrate the mid-term results of the ReMo project in OpenLab.
+# Welcome to ReMo World!
+This repository was designed to demonstrate the mid-term results of the ReMo project in OpenLab.
