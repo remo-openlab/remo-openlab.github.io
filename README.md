@@ -14,3 +14,13 @@ View synthesis technique can serve the free-viewpoint rendering to users using j
 <img src="images/kitchen.jpg" width="320" height="240">
 
 [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/kitchen/400)]
+
+### Illy
+<img src="images/illy.jpg" width="320" height="240">
+
+[[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/illy/400)]
+
+### Joongheung
+<img src="images/joongheung.jpg" width="320" height="240">
+
+[[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/joongheung/400)]
