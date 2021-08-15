@@ -32,6 +32,10 @@ View synthesis technique can serve the free-viewpoint rendering to users using j
 
 ### Custom Dataset
 
+| Input | <img src="images/clab-square.gif" width="225" /> | <img src="images/wall.gif" width="300" /> |
+| :---: | :---: | :---: |
+| Scene | <b>C-Lab Square</b> | <b>Wall</b> |
+| 3D | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/clab-square/400)] | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/wall/400)] [[PC](https://remo-openlab.github.io/viewer/viewer.html?scene=https://remo-openlab.github.io/mpi/wall/1024)] |
 | Input | <img src="images/wall.gif" width="300" /> | <img src="images/kitchen.gif" width="300" /> |
 | :---: | :---: | :---: |
 | Scene | <b>Wall</b> | <b>Kitchen</b> |
