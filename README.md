@@ -32,13 +32,10 @@ View synthesis technique can serve the free-viewpoint rendering to users using j
 
 ### Custom Dataset
 
-| Input | <img src="images/wall.gif" width="300" /> | <img src="images/snu-house.gif" width="300" /> |
+| Input | <img src="images/wall.gif" width="300" /> | <img src="images/kitchen.gif" width="300" /> |
 | :---: | :---: | :---: |
-| Scene | <b>Wall</b> | <b>SNU House</b> |
-| 3D | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/wall/400)] [[PC](https://remo-openlab.github.io/viewer/viewer.html?scene=https://remo-openlab.github.io/mpi/wall/1024)] | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/snu-house/400)] |
-| Input | <img src="images/kitchen.gif" width="300" /> | <img src="images/dami-house.gif" width="300" /> |
-| Scene | <b>Kitchen</b> | <b>Dami House</b> |
-| 3D | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/kitchen/400)] [[PC](https://remo-openlab.github.io/viewer/viewer.html?scene=https://remo-openlab.github.io/mpi/kitchen/1008)] | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/dami-house/400)] |
+| Scene | <b>Wall</b> | <b>Kitchen</b> |
+| 3D | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/wall/400)] [[PC](https://remo-openlab.github.io/viewer/viewer.html?scene=https://remo-openlab.github.io/mpi/wall/1024)] | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/kitchen/400)] [[PC](https://remo-openlab.github.io/viewer/viewer.html?scene=https://remo-openlab.github.io/mpi/kitchen/1024)] |
 | Input | <img src="images/steak.gif" width="300" /> | <img src="images/settimio.gif" width="300" /> |
 | Scene | <b>Steak</b> | <b>Settimio</b> |
 | 3D | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/steak/400)] [[PC](https://remo-openlab.github.io/viewer/viewer.html?scene=https://remo-openlab.github.io/mpi/steak/1024)] | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/settimio/400)] |
