@@ -1,27 +1,20 @@
 # Welcome to ReMo World!
 This repository was designed to demonstrate the mid-term results of the ReMo project in OpenLab.
 
+## Animatable 3D Avatar
+To create a photo-realistic animatable 3D avatar, we are building an end-to-end pipeline which consists of 3D human shape reconstruction, texture mapping, and skeleton rigging and skinning for animation.
+
+| Input | <img src="images/jisung-business.jpg" width="300" />  | <img src="images/jisung-casual.jpg" width="300" /> |
+| :---: | :---: | :---: |
+
+### AR Use Case : Table
+https://user-images.githubusercontent.com/87857243/130650622-dcc8175b-88c4-44a6-a597-90562f1d7599.mp4
+
+### AR Use Case : Floor
+https://user-images.githubusercontent.com/87857243/130647745-35d355da-c98c-40a5-acee-92fd211aa78d.mp4
+
 ## Interactive 3D Photo
-View synthesis technique can serve the free-viewpoint rendering to users using just a few photos.
-
-<!-- ### Public Dataset
-| <img src="images/trex.gif" width="300" />  | <img src="images/room.gif" width="300" /> |
-| :---: | :---: |
-| <b>T-Rex</b> | <b>Room</b> |
-| [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/trex/400)] [[PC](https://remo-openlab.github.io/viewer/viewer.html?scene=https://remo-openlab.github.io/mpi/trex/1008)] | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/room/400)] [[PC](https://remo-openlab.github.io/viewer/viewer.html?scene=https://remo-openlab.github.io/mpi/room/1008)] |
-
-### Custom Dataset
-| <img src="images/kitchen.gif" width="300" /> | <img src="images/wall.gif" width="300" /> |
-| :---: | :---: |
-| <b>Kitchen</b> | <b>Wall</b> |
-| [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/kitchen/400)] [[PC](https://remo-openlab.github.io/viewer/viewer.html?scene=https://remo-openlab.github.io/mpi/kitchen/1008)] | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/wall/400)] [[PC](https://remo-openlab.github.io/viewer/viewer.html?scene=https://remo-openlab.github.io/mpi/wall/1024)] |
-| <img src="images/steak.gif" width="300" /> | <img src="images/settimio.gif" width="300" /> |
-| <b>Steak</b> | <b>Settimio</b> |
-| [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/steak/400)] [[PC](https://remo-openlab.github.io/viewer/viewer.html?scene=https://remo-openlab.github.io/mpi/steak/1024)] | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/settimio/400)] |
-| <img src="images/lake-front.gif" width="300" /> | <img src="images/joongheung.gif" width="300" /> |
-| <b>Lake Front</b> | <b>Joongheng</b> |
-| [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/lake-front/400)] | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/joongheung/400)] | -->
-
+View synthesis technique can serve the free-viewpoint rendering to users using just a few photos. We made the interactive 3D photos using the latest multi-plane image-based neural rendering. And we are also trying to extend the existing scene structure from planar surfaces to spherical ones for VR use cases.
 
 ### Public Dataset
 
