@@ -4,13 +4,18 @@ This repository was designed to demonstrate the mid-term results of the ReMo pro
 ## Animatable 3D Avatar
 To create a photo-realistic animatable 3D avatar, we are building an end-to-end pipeline which consists of 3D human shape reconstruction, texture mapping, and skeleton rigging and skinning for animation.
 
-| Input | <img src="images/jisung-business.jpg" width="300" />  | <img src="images/jisung-casual.jpg" width="300" /> |
-| :---: | :---: | :---: |
+### Input Example
+
+| Jisung Business | Jisung Casual |
+| :---: | :---: |
+| <img src="images/jisung-business.jpg" width="300" />  | <img src="images/jisung-casual.jpg" width="300" /> |
 
 ### AR Use Case : Table
+
 https://user-images.githubusercontent.com/87857243/130650622-dcc8175b-88c4-44a6-a597-90562f1d7599.mp4
 
 ### AR Use Case : Floor
+
 https://user-images.githubusercontent.com/87857243/130647745-35d355da-c98c-40a5-acee-92fd211aa78d.mp4
 
 ## Interactive 3D Photo
