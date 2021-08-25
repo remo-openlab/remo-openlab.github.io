@@ -33,14 +33,22 @@ View synthesis technique can serve the free-viewpoint rendering to users using j
 
 ### Public Dataset
 
-| Input | <img src="images/trex.gif" width="300" />  | <img src="images/room.gif" width="300" /> |
+| Input | <img src="images/trex.gif" width="400" />  | <img src="images/room.gif" width="400" /> |
 | :---: | :---: | :---: |
 | Scene | <b>T-Rex</b> | <b>Room</b> |
 | 3D | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/trex/400)] [[PC](https://remo-openlab.github.io/viewer/viewer.html?scene=https://remo-openlab.github.io/mpi/trex/1008)] | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/room/400)] [[PC](https://remo-openlab.github.io/viewer/viewer.html?scene=https://remo-openlab.github.io/mpi/room/1008)] |
 
 ### Custom Dataset
 
-| Input | <img src="images/clab-square.gif" width="225" /> | <img src="images/wall.gif" width="300" /> |
+| Input | <img src="images/clab-square.gif" width="225" /> | <img src="images/wall.gif" width="300" /> | <img src="images/galleria-01.gif" width="300" /> | <img src="images/kitchen.gif" width="300" /> |
+| :---: | :---: | :---: | :---: | :---: |
+| Scene | <b>C-Lab Square</b> | <b>Wall</b> | <b>Galleria</b> | <b>Kitchen</b> |
+| 3D | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/clab-square/400)] [[PC](https://remo-openlab.github.io/viewer/viewer.html?scene=https://remo-openlab.github.io/mpi/clab-square/1008)] | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/wall/400)] [[PC](https://remo-openlab.github.io/viewer/viewer.html?scene=https://remo-openlab.github.io/mpi/wall/1024)] | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/galleria-01/400)] [[PC](https://remo-openlab.github.io/viewer/viewer.html?scene=https://remo-openlab.github.io/mpi/galleria-01/1008)] | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/kitchen/400)] [[PC](https://remo-openlab.github.io/viewer/viewer.html?scene=https://remo-openlab.github.io/mpi/kitchen/1024)] |
+| Input | <img src="images/steak.gif" width="300" /> | <img src="images/settimio.gif" width="300" /> | <img src="images/lake-front.gif" width="300" /> | <img src="images/joongheung.gif" width="300" /> |
+| Scene | <b>Steak</b> | <b>Settimio</b> | <b>Lake Front</b> | <b>Joongheng</b> |
+| 3D | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/steak/400)] [[PC](https://remo-openlab.github.io/viewer/viewer.html?scene=https://remo-openlab.github.io/mpi/steak/1024)] | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/settimio/400)] [[PC](https://remo-openlab.github.io/viewer/viewer.html?scene=https://remo-openlab.github.io/mpi/settimio/1008)] | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/lake-front/400)] | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/joongheung/400)] |
+
+<!-- | Input | <img src="images/clab-square.gif" width="225" /> | <img src="images/wall.gif" width="300" /> |
 | :---: | :---: | :---: |
 | Scene | <b>C-Lab Square</b> | <b>Wall</b> |
 | 3D | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/clab-square/400)] [[PC](https://remo-openlab.github.io/viewer/viewer.html?scene=https://remo-openlab.github.io/mpi/clab-square/1008)] | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/wall/400)] [[PC](https://remo-openlab.github.io/viewer/viewer.html?scene=https://remo-openlab.github.io/mpi/wall/1024)] |
@@ -52,5 +60,5 @@ View synthesis technique can serve the free-viewpoint rendering to users using j
 | 3D | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/steak/400)] [[PC](https://remo-openlab.github.io/viewer/viewer.html?scene=https://remo-openlab.github.io/mpi/steak/1024)] | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/settimio/400)] [[PC](https://remo-openlab.github.io/viewer/viewer.html?scene=https://remo-openlab.github.io/mpi/settimio/1008)] |
 | Input | <img src="images/lake-front.gif" width="300" /> | <img src="images/joongheung.gif" width="300" /> |
 | Scene | <b>Lake Front</b> | <b>Joongheng</b> |
-| 3D | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/lake-front/400)] | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/joongheung/400)] |
+| 3D | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/lake-front/400)] | [[Mobile](https://remo-openlab.github.io/viewer/mobile.html?scene=https://remo-openlab.github.io/mpi/joongheung/400)] | -->
 
