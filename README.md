@@ -9,7 +9,7 @@ To create a photo-realistic animatable 3D avatar, we are building an end-to-end 
 | Input | <img src="images/jisung-business.jpg" width="400" />  | <img src="images/jisung-casual.jpg" width="400" /> |
 | :---: | :---: | :---: |
 | Scene | <b>Table</b> | <b>Floor</b> |
-| AR | <iframe width="400" height="858" src="https://www.youtube.com/embed/evA6gtYcjSo" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe> | <iframe width="400" height="858" src="https://www.youtube.com/embed/lhO3J7chAeA" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe> |
+| AR | <figure class="video_container"> <iframe width="400" height="858" src="https://www.youtube.com/embed/evA6gtYcjSo" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe> </figure> | <figure class="video_container"> <iframe width="400" height="858" src="https://www.youtube.com/embed/lhO3J7chAeA" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe> </figure>|
 
 <!-- | Jisung Business | Jisung Casual |
 | :---: | :---: |
@@ -21,12 +21,12 @@ To create a photo-realistic animatable 3D avatar, we are building an end-to-end 
 
 <!-- https://user-images.githubusercontent.com/87857243/130650622-dcc8175b-88c4-44a6-a597-90562f1d7599.mp4 -->
 
-### AR Use Case : Floor
+<!-- ### AR Use Case : Floor
 
 <iframe width="400" height="858" src="https://www.youtube.com/embed/lhO3J7chAeA" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
 
 <!-- https://user-images.githubusercontent.com/87857243/130647745-35d355da-c98c-40a5-acee-92fd211aa78d.mp4 -->
--->
+--> -->
 
 ## Interactive 3D Photo
 View synthesis technique can serve the free-viewpoint rendering to users using just a few photos. We made the interactive 3D photos using the latest multi-plane image-based neural rendering. And we are also trying to extend the existing scene structure from planar surfaces to spherical ones for VR use cases.
